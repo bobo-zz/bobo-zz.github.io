@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>李幻海</title>
   
-  <subtitle>如果能够避开猛烈的喜欢，就自然不会有悲痛的袭来</subtitle>
-  <link href="http://bobo-zz.github.io/atom.xml" rel="self"/>
+  <subtitle>智者不入爱河</subtitle>
+  <link href="https://bobo-zz.github.io/atom.xml" rel="self"/>
   
-  <link href="http://bobo-zz.github.io/"/>
+  <link href="https://bobo-zz.github.io/"/>
   <updated>2021-12-04T16:42:10.857Z</updated>
-  <id>http://bobo-zz.github.io/</id>
+  <id>https://bobo-zz.github.io/</id>
   
   <author>
     <name>幻海</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test_my_site</title>
-    <link href="http://bobo-zz.github.io/2021/12/05/test-my-site/"/>
-    <id>http://bobo-zz.github.io/2021/12/05/test-my-site/</id>
+    <link href="https://bobo-zz.github.io/2021/12/05/test-my-site/"/>
+    <id>https://bobo-zz.github.io/2021/12/05/test-my-site/</id>
     <published>2021-12-04T16:42:10.000Z</published>
     <updated>2021-12-04T16:42:10.857Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://bobo-zz.github.io/2021/12/04/hello-world/"/>
-    <id>http://bobo-zz.github.io/2021/12/04/hello-world/</id>
+    <link href="https://bobo-zz.github.io/2021/12/04/hello-world/"/>
+    <id>https://bobo-zz.github.io/2021/12/04/hello-world/</id>
     <published>2021-12-04T15:11:50.222Z</published>
     <updated>2021-12-04T15:11:50.222Z</updated>
     
