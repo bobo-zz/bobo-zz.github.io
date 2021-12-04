@@ -6,7 +6,7 @@
   <link href="https://bobo-zz.github.io/atom.xml" rel="self"/>
   
   <link href="https://bobo-zz.github.io/"/>
-  <updated>2021-12-04T16:42:10.857Z</updated>
+  <updated>2021-12-04T19:30:48.310Z</updated>
   <id>https://bobo-zz.github.io/</id>
   
   <author>
@@ -21,11 +21,15 @@
     <link href="https://bobo-zz.github.io/2021/12/05/test-my-site/"/>
     <id>https://bobo-zz.github.io/2021/12/05/test-my-site/</id>
     <published>2021-12-04T16:42:10.000Z</published>
-    <updated>2021-12-04T16:42:10.857Z</updated>
+    <updated>2021-12-04T19:30:48.310Z</updated>
     
     
     
     
+    <category term="学术" scheme="https://bobo-zz.github.io/categories/%E5%AD%A6%E6%9C%AF/"/>
+    
+    
+    <category term="深度学习" scheme="https://bobo-zz.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
